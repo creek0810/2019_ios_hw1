@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "5672f5f4fc0eb2ce231280aa2160314e"
+build_time: [1551712518, 503377000]
+inputs:
+  "/Users/river/Desktop/dot_art/dot_art/ViewController.swift": [1551712511, 0]
+  "/Users/river/Desktop/dot_art/dot_art/AppDelegate.swift": [1551712510, 0]
